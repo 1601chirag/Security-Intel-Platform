@@ -30,6 +30,22 @@ An AI-powered security automation platform that combines vulnerability managemen
 - AI-generated audit-ready reports
 - Configurable compliance thresholds
 
+
+## 📸 Screenshots
+
+### Security Dashboard
+![Dashboard](docs/s1.png)
+*Real-time vulnerability severity distribution and CVSS timeline*
+
+### AI Triage Analysis
+![Triage](docs/s2.png)
+*AI-powered vulnerability assessment with remediation steps*
+
+### Compliance Reporting
+![Compliance](docs/s3.png)
+*Automated ISO 27001 / SOC2 audit-ready reports*
+
+
 ## 🚀 Tech Stack
 
 - **Python 3.11** - Core language
